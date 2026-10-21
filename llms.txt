@@ -1,0 +1,27 @@
+# Brooke Ballhaus
+
+> BS/MS student in Computer Science (Artificial Intelligence concentration) at Stanford University. Builds AI-powered solutions grounded in human-centered design. Work spans multi-agent reinforcement learning, mechanistic interpretability of LLMs, self-supervised computer vision, and full-stack AI products.
+
+GitHub: https://github.com/bballhaus
+Each repository below has an AGENTS.md with setup, run, and test instructions for coding agents.
+
+## Research projects
+
+- [emergent-cooperation-pandemic](https://github.com/bballhaus/emergent-cooperation-pandemic): Multi-agent RL (IPPO, MAPPO, DQN, peer incentives) on a multi-city SEIR pandemic simulator; an impact reward teaches selfish agents to share ventilators, cutting deaths 4-11% vs. selfish baselines. Stanford CS 224R, Spring 2026. With Riya Narain. Python, PyTorch.
+- [cot-faithfulness-audit](https://github.com/bballhaus/cot-faithfulness-audit): Tests whether chain-of-thought in Llama-3-8B-Instruct is causal or post-hoc rationalization, using logit lens, tuned lens, and activation patching. Stanford CS 281. With Riya Narain. Python, TransformerLens.
+- [showjumping-ssl](https://github.com/bballhaus/showjumping-ssl): Predicts showjumping jump outcomes from broadcast video with a self-supervised R(2+1)D encoder, a domain-adversarial venue head, and leave-one-venue-out evaluation to control for the venue confound. Stanford CS 131, Spring 2026. Python, PyTorch, YOLOv8.
+- [mcphases-rl](https://github.com/riyanarain/mcphases-rl): Offline RL (fitted Q-iteration with behavior-cloning regularization, weighted importance sampling) for personalized menstrual-health recommendations from wearable data. Stanford CS 238, Fall 2025. With Nora Menon and Riya Narain. Python, scikit-learn.
+- [HeuristicWithQLearning](https://github.com/bballhaus/HeuristicWithQLearning): Learns A* search heuristics with tabular Q-learning for imperfect mazes with loops. Stanford CS 221, Spring 2025. With Riya Narain. Python, Jupyter.
+
+## Products
+
+- [civitas](https://github.com/bballhaus/civitas): Helps small and medium government contractors find compatible RFPs aggregated from 60+ California procurement sites, using source-aware semantic matching with per-RFP citations. Team project. Next.js, Postgres with pgvector, AWS Lambda, Playwright, LLM enrichment.
+- [BookClubB](https://github.com/bballhaus/BookClubB): iOS app for book clubs with groups, discussion threads, posts, and profiles. With irenealin. SwiftUI, Firebase.
+
+## Open source
+
+- [crewAI](https://github.com/crewAIInc/crewAI): Contributor to the multi-agent orchestration framework (fork: https://github.com/bballhaus/crewAI).
+
+## Skills
+
+Python, PyTorch, TypeScript, Swift, SQL, AWS; reinforcement learning (single- and multi-agent, offline), LLM interpretability, self-supervised video representation learning, semantic search and retrieval.
