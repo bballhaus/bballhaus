@@ -3,7 +3,7 @@
 > BS/MS student in Computer Science (Artificial Intelligence concentration) at Stanford University. Builds AI-powered solutions grounded in human-centered design. Work spans multi-agent reinforcement learning, mechanistic interpretability of LLMs, self-supervised computer vision, and full-stack AI products.
 
 GitHub: https://github.com/bballhaus
-Each repository below has an AGENTS.md with setup, run, and test instructions for coding agents.
+Each public repository below has an AGENTS.md with setup, run, and test instructions for coding agents.
 
 ## Research projects
 
@@ -17,6 +17,11 @@ Each repository below has an AGENTS.md with setup, run, and test instructions fo
 
 - [civitas](https://github.com/bballhaus/civitas): Helps small and medium government contractors find compatible RFPs aggregated from 60+ California procurement sites, using source-aware semantic matching with per-RFP citations. Team project. Next.js, Postgres with pgvector, AWS Lambda, Playwright, LLM enrichment.
 - [BookClubB](https://github.com/bballhaus/BookClubB): iOS app for book clubs with groups, discussion threads, posts, and profiles. With irenealin. SwiftUI, Firebase.
+
+## Team projects (private repositories, no public link)
+
+- ReelLife: Narrative Unity game with day-by-day schedules, character stats, branching dialogue, and multiple endings. Built with Team Reithrodon for Stanford CS 247G, Spring 2026. Unity, C#.
+- Rooted: Landing site for a decision-tracing tool for product teams, featuring an interactive 3D decision tree that scores and prunes options against a goal. Stanford CS 177, Fall 2026. React, Vite, Supabase, PostHog.
 
 ## Open source
 

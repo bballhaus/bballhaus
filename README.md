@@ -17,6 +17,11 @@ BS/MS student in Computer Science (Artificial Intelligence concentration) at **S
 - [**Civitas**](https://github.com/bballhaus/civitas): helps small government contractors find compatible RFPs across 60+ California procurement sites using semantic matching. *Next.js · Postgres + pgvector · AWS Lambda · Playwright*
 - [**BookClubB**](https://github.com/bballhaus/BookClubB): an iOS app for book clubs with groups, discussion threads, and profiles. *SwiftUI · Firebase*
 
+### Team projects (private repos)
+
+- **ReelLife**: a narrative Unity game with day-by-day schedules, character stats, branching dialogue, and multiple endings. Built with Team Reithrodon for Stanford CS 247G. *Unity · C#*
+- **Rooted**: landing site for a decision-tracing tool for product teams, with an interactive 3D decision tree that scores and prunes options. Stanford CS 177. *React · Vite · Supabase · PostHog*
+
 ### Open source
 
 Contributing to [crewAI](https://github.com/crewAIInc/crewAI), the multi-agent orchestration framework.
