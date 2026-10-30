@@ -15,12 +15,12 @@ BS/MS student in Computer Science (Artificial Intelligence concentration) at **S
 ### Products
 
 - [**Civitas**](https://github.com/bballhaus/civitas): helps small government contractors find compatible RFPs across 60+ California procurement sites using semantic matching. *Next.js · Postgres + pgvector · AWS Lambda · Playwright*
+- [**Rooted**](https://github.com/bballhaus/rooted-prod): an AI decision partner and decision history for startup product managers. It pulls context from where the team already works, helps weigh the options, and keeps a searchable record of what was decided and why. In progress with Team Geckos for Stanford CS 177. [Landing page](https://rooted-stanford.vercel.app/). *Supabase*
 - [**BookClubB**](https://github.com/bballhaus/BookClubB): an iOS app for book clubs with groups, discussion threads, and profiles. *SwiftUI · Firebase*
 
 ### Team projects (private repos)
 
 - **ReelLife**: a narrative Unity game with day-by-day schedules, character stats, branching dialogue, and multiple endings. Built with Team Reithrodon for Stanford CS 247G. *Unity · C#*
-- **Rooted**: landing site for a decision-tracing tool for product teams, with an interactive 3D decision tree that scores and prunes options. Stanford CS 177. *React · Vite · Supabase · PostHog*
 
 ### Open source
 

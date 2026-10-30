@@ -16,12 +16,12 @@ Each public repository below has an AGENTS.md with setup, run, and test instruct
 ## Products
 
 - [civitas](https://github.com/bballhaus/civitas): Helps small and medium government contractors find compatible RFPs aggregated from 60+ California procurement sites, using source-aware semantic matching with per-RFP citations. Team project. Next.js, Postgres with pgvector, AWS Lambda, Playwright, LLM enrichment.
+- [rooted-prod](https://github.com/bballhaus/rooted-prod): Rooted, an AI decision partner and decision history for startup product managers: pulls team context, helps weigh options, and keeps a searchable record of decisions, rationale, and outcomes. In progress (product docs and specs; stack not yet chosen). Team Geckos, Stanford CS 177, Fall 2026. Landing page: https://rooted-stanford.vercel.app/
 - [BookClubB](https://github.com/bballhaus/BookClubB): iOS app for book clubs with groups, discussion threads, posts, and profiles. With irenealin. SwiftUI, Firebase.
 
 ## Team projects (private repositories, no public link)
 
 - ReelLife: Narrative Unity game with day-by-day schedules, character stats, branching dialogue, and multiple endings. Built with Team Reithrodon for Stanford CS 247G, Spring 2026. Unity, C#.
-- Rooted: Landing site for a decision-tracing tool for product teams, featuring an interactive 3D decision tree that scores and prunes options against a goal. Stanford CS 177, Fall 2026. React, Vite, Supabase, PostHog.
 
 ## Open source
 
