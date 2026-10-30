@@ -17,6 +17,7 @@ Each public repository below has an AGENTS.md with setup, run, and test instruct
 
 - [civitas](https://github.com/bballhaus/civitas): Helps small and medium government contractors find compatible RFPs aggregated from 60+ California procurement sites, using source-aware semantic matching with per-RFP citations. Team project. Next.js, Postgres with pgvector, AWS Lambda, Playwright, LLM enrichment.
 - [rooted-prod](https://github.com/bballhaus/rooted-prod): Rooted, an AI decision partner and decision history for startup product managers: pulls team context, helps weigh options, and keeps a searchable record of decisions, rationale, and outcomes. In progress (product docs and specs; stack not yet chosen). Team Geckos, Stanford CS 177, Fall 2026. Landing page: https://rooted-stanford.vercel.app/
+- [saipiens](https://github.com/elizamg/saipiens): SAIPIENS, an AI-enabled homework system: teachers upload curriculum PDFs, the system extracts knowledge and skill objectives and generates units for students, grounded in research-backed pedagogy. Brooke is the top contributor (155 commits, 41 pull requests). Stanford CS 224G, Winter 2026. Live app: https://saipiens-chi.vercel.app/. React, Vite, Tailwind, AWS Lambda and Cognito, Gemini.
 - [BookClubB](https://github.com/bballhaus/BookClubB): iOS app for book clubs with groups, discussion threads, posts, and profiles. With irenealin. SwiftUI, Firebase.
 
 ## Team projects (private repositories, no public link)

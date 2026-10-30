@@ -16,6 +16,7 @@ BS/MS student in Computer Science (Artificial Intelligence concentration) at **S
 
 - [**Civitas**](https://github.com/bballhaus/civitas): helps small government contractors find compatible RFPs across 60+ California procurement sites using semantic matching. *Next.js · Postgres + pgvector · AWS Lambda · Playwright*
 - [**Rooted**](https://github.com/bballhaus/rooted-prod): an AI decision partner and decision history for startup product managers. It pulls context from where the team already works, helps weigh the options, and keeps a searchable record of what was decided and why. In progress with Team Geckos for Stanford CS 177. [Landing page](https://rooted-stanford.vercel.app/). *Supabase*
+- [**SAIPIENS**](https://github.com/elizamg/saipiens): an AI-enabled homework system. Teachers upload curriculum PDFs, the system extracts learning objectives, and it generates units for students, using research-backed pedagogy to cut teacher and student workload. Top contributor (155 commits). Stanford CS 224G. [Live app](https://saipiens-chi.vercel.app/). *React · Vite · Tailwind · AWS Lambda + Cognito · Gemini*
 - [**BookClubB**](https://github.com/bballhaus/BookClubB): an iOS app for book clubs with groups, discussion threads, and profiles. *SwiftUI · Firebase*
 
 ### Team projects (private repos)
