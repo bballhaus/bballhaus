@@ -1,8 +1,10 @@
 # Brooke Ballhaus
 
-> BS/MS student in Computer Science (Artificial Intelligence concentration) at Stanford University. Builds AI-powered solutions grounded in human-centered design. Work spans multi-agent reinforcement learning, mechanistic interpretability of LLMs, self-supervised computer vision, and full-stack AI products.
+> AI engineer and BS/MS student in Computer Science (Artificial Intelligence concentration) at Stanford University. Builds systems that separate what should be automated from what is uniquely human. Work spans multi-agent reinforcement learning, mechanistic interpretability of LLMs, self-supervised computer vision, and full-stack AI products.
 
 GitHub: https://github.com/bballhaus
+Website: https://brookeballhaus.com
+LinkedIn: https://www.linkedin.com/in/brooke-ballhaus
 Each public repository below has an AGENTS.md with setup, run, and test instructions for coding agents.
 
 ## Research projects
@@ -15,9 +17,10 @@ Each public repository below has an AGENTS.md with setup, run, and test instruct
 
 ## Products
 
-- [civitas](https://github.com/bballhaus/civitas): Helps small and medium government contractors find compatible RFPs aggregated from 60+ California procurement sites, using source-aware semantic matching with per-RFP citations. Team project. Next.js, Postgres with pgvector, AWS Lambda, Playwright, LLM enrichment.
-- [rooted-prod](https://github.com/bballhaus/rooted-prod): Rooted, an AI decision partner and decision history for startup product managers: pulls team context, helps weigh options, and keeps a searchable record of decisions, rationale, and outcomes. In progress (product docs and specs; stack not yet chosen). Team Geckos, Stanford CS 177, Fall 2026. Landing page: https://rooted-stanford.vercel.app/
-- [saipiens](https://github.com/elizamg/saipiens): SAIPIENS, an AI-enabled homework system: teachers upload curriculum PDFs, the system extracts knowledge and skill objectives and generates units for students, grounded in research-backed pedagogy. Brooke is the top contributor (155 commits, 41 pull requests). Stanford CS 224G, Winter 2026. Live app: https://saipiens-chi.vercel.app/. React, Vite, Tailwind, AWS Lambda and Cognito, Gemini.
+- [civitas](https://github.com/bballhaus/civitas): Helps small and medium government contractors find compatible RFPs aggregated from 62 California procurement sites, using source-aware semantic matching with per-RFP citations. Brooke led the 5-person team and wrote most of 640+ commits. Next.js, Postgres with pgvector, AWS Lambda, Playwright, LLM enrichment.
+- [rooted-prod](https://github.com/bballhaus/rooted-prod): Rooted, an AI decision partner and decision history for startup product managers: pulls team context, helps weigh options, and keeps a searchable record of decisions, rationale, and outcomes. In progress. Vite, React, Supabase, Vercel. Team Geckos, Stanford CS 177, Fall 2026. Landing page: https://rooted-stanford.vercel.app/
+- [saipiens](https://github.com/elizamg/saipiens): SAIPIENS, a novel AI homework system that grades students' reasoning, not just their answers: teachers upload curriculum PDFs, the system extracts knowledge and skill objectives and generates units for students, grounded in research-backed pedagogy. Brooke is the top contributor (155 commits, 41 pull requests). Stanford CS 224G, Winter 2026. Live app: https://saipiens-chi.vercel.app/. React, Vite, Tailwind, AWS Lambda and Cognito, Gemini.
+- Prose.ai: a website builder where plain-English specs compile into tested code. In progress, private repository.
 - [BookClubB](https://github.com/bballhaus/BookClubB): iOS app for book clubs with groups, discussion threads, posts, and profiles. With irenealin. SwiftUI, Firebase.
 
 ## Team projects (private repositories, no public link)
@@ -26,8 +29,10 @@ Each public repository below has an AGENTS.md with setup, run, and test instruct
 
 ## Open source
 
-- [crewAI](https://github.com/crewAIInc/crewAI): Contributor to the multi-agent orchestration framework (fork: https://github.com/bballhaus/crewAI).
+- [crewAI](https://github.com/crewAIInc/crewAI): Two merged pull requests to the multi-agent orchestration framework: an offline evaluation runner for agent routing and guardrail decisions (https://github.com/crewAIInc/crewAI/pull/8230, 46 tests, mutation-tested) and credential-free AWS Bedrock contract tests (https://github.com/crewAIInc/crewAI/pull/9096). Also filed bug https://github.com/crewAIInc/crewAI/issues/9095 (Bedrock Converse content parts).
 
 ## Skills
 
 Python, PyTorch, TypeScript, Swift, SQL, AWS; reinforcement learning (single- and multi-agent, offline), LLM interpretability, self-supervised video representation learning, semantic search and retrieval.
+
+AI-native development: Claude Code, Cursor, Factory; custom agent skills and MCP servers; every public repository has an AGENTS.md, one-step setup, and tests an agent can run.

@@ -1,6 +1,6 @@
 # Brooke Ballhaus
 
-BS/MS student in Computer Science (Artificial Intelligence concentration) at **Stanford**. I build AI-powered solutions grounded in human-centered design: systems that are technically rigorous and built around the people who use them.
+AI engineer building systems that separate what should be automated from what is uniquely human, empowering people to use AI and focus on what only they can do. BS/MS student in Computer Science (Artificial Intelligence concentration) at **Stanford**.
 
 ### Research projects
 
@@ -14,9 +14,10 @@ BS/MS student in Computer Science (Artificial Intelligence concentration) at **S
 
 ### Products
 
-- [**Civitas**](https://github.com/bballhaus/civitas): helps small government contractors find compatible RFPs across 60+ California procurement sites using semantic matching. *Next.js · Postgres + pgvector · AWS Lambda · Playwright*
-- [**Rooted**](https://github.com/bballhaus/rooted-prod): an AI decision partner and decision history for startup product managers. It pulls context from where the team already works, helps weigh the options, and keeps a searchable record of what was decided and why. In progress with Team Geckos for Stanford CS 177. [Landing page](https://rooted-stanford.vercel.app/). *Supabase*
-- [**SAIPIENS**](https://github.com/elizamg/saipiens): an AI-enabled homework system. Teachers upload curriculum PDFs, the system extracts learning objectives, and it generates units for students, using research-backed pedagogy to cut teacher and student workload. Top contributor (155 commits). Stanford CS 224G. [Live app](https://saipiens-chi.vercel.app/). *React · Vite · Tailwind · AWS Lambda + Cognito · Gemini*
+- [**Civitas**](https://github.com/bballhaus/civitas): helps small government contractors find compatible RFPs across 62 California procurement sites using semantic matching. Led a 5-person team and wrote most of 640+ commits. *Next.js · Postgres + pgvector · AWS Lambda · Playwright*
+- [**Rooted**](https://github.com/bballhaus/rooted-prod): an AI decision partner and decision history for startup product managers. It pulls context from where the team already works, helps weigh the options, and keeps a searchable record of what was decided and why. In progress with Team Geckos for Stanford CS 177. [Landing page](https://rooted-stanford.vercel.app/). *Vite · React · Supabase · Vercel*
+- [**SAIPIENS**](https://github.com/elizamg/saipiens): a novel AI homework system that grades students' reasoning, not just their answers. Teachers upload curriculum PDFs, the system extracts learning objectives, and it generates units for students, using research-backed pedagogy to cut teacher and student workload. Top contributor (155 commits). Stanford CS 224G. [Live app](https://saipiens-chi.vercel.app/). *React · Vite · Tailwind · AWS Lambda + Cognito · Gemini*
+- **Prose.ai**: a website builder where plain-English specs compile into tested code. In progress, private repo.
 - [**BookClubB**](https://github.com/bballhaus/BookClubB): an iOS app for book clubs with groups, discussion threads, and profiles. *SwiftUI · Firebase*
 
 ### Team projects (private repos)
@@ -25,8 +26,12 @@ BS/MS student in Computer Science (Artificial Intelligence concentration) at **S
 
 ### Open source
 
-Contributing to [crewAI](https://github.com/crewAIInc/crewAI), the multi-agent orchestration framework.
+Two merged PRs to [crewAI](https://github.com/crewAIInc/crewAI), the multi-agent orchestration framework: an offline evaluation runner for agent routing and guardrail decisions ([#8230](https://github.com/crewAIInc/crewAI/pull/8230), 46 tests, mutation-tested) and credential-free AWS Bedrock contract tests ([#9096](https://github.com/crewAIInc/crewAI/pull/9096)). I also filed [#9095](https://github.com/crewAIInc/crewAI/issues/9095), a Bedrock Converse bug.
 
 ---
 
 **Tools:** Python · PyTorch · TypeScript · Swift · SQL · AWS
+
+**How I build:** Claude Code, Cursor, Factory; my own agent skills and MCP servers. Every public repo has an AGENTS.md, one-step setup, and tests an agent can run.
+
+[brookeballhaus.com](https://brookeballhaus.com) · [LinkedIn](https://www.linkedin.com/in/brooke-ballhaus)
