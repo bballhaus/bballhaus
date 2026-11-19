@@ -29,7 +29,7 @@ Each public repository below has an AGENTS.md with setup, run, and test instruct
 
 ## Open source
 
-- [crewAI](https://github.com/crewAIInc/crewAI): Two merged pull requests to the multi-agent orchestration framework: an offline evaluation runner for agent routing and guardrail decisions (https://github.com/crewAIInc/crewAI/pull/8230, 46 tests, mutation-tested) and credential-free AWS Bedrock contract tests (https://github.com/crewAIInc/crewAI/pull/9096). Also filed bug https://github.com/crewAIInc/crewAI/issues/9095 (Bedrock Converse content parts).
+- [crewAI](https://github.com/crewAIInc/crewAI): Three merged pull requests to the multi-agent orchestration framework: an offline evaluation runner for agent routing and guardrail decisions (https://github.com/crewAIInc/crewAI/pull/8230, 46 tests, mutation-tested), credential-free AWS Bedrock contract tests (https://github.com/crewAIInc/crewAI/pull/9096), and a fix so each Flow gets its own state id from a class-level initial_state (https://github.com/crewAIInc/crewAI/pull/9499). Also filed bugs https://github.com/crewAIInc/crewAI/issues/9095 (Bedrock Converse content parts) and https://github.com/crewAIInc/crewAI/issues/9498 (shared Flow state id).
 
 ## Skills
 

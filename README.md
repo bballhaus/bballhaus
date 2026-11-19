@@ -26,7 +26,7 @@ AI engineer building systems that separate what should be automated from what is
 
 ### Open source
 
-Two merged PRs to [crewAI](https://github.com/crewAIInc/crewAI), the multi-agent orchestration framework: an offline evaluation runner for agent routing and guardrail decisions ([#8230](https://github.com/crewAIInc/crewAI/pull/8230), 46 tests, mutation-tested) and credential-free AWS Bedrock contract tests ([#9096](https://github.com/crewAIInc/crewAI/pull/9096)). I also filed [#9095](https://github.com/crewAIInc/crewAI/issues/9095), a Bedrock Converse bug.
+Three merged PRs to [crewAI](https://github.com/crewAIInc/crewAI), the multi-agent orchestration framework: an offline evaluation runner for agent routing and guardrail decisions ([#8230](https://github.com/crewAIInc/crewAI/pull/8230), 46 tests, mutation-tested), credential-free AWS Bedrock contract tests ([#9096](https://github.com/crewAIInc/crewAI/pull/9096)), and a fix so each Flow gets its own state id instead of sharing one from a class-level `initial_state` ([#9499](https://github.com/crewAIInc/crewAI/pull/9499)). I also filed [#9095](https://github.com/crewAIInc/crewAI/issues/9095), a Bedrock Converse bug the contract tests caught, and [#9498](https://github.com/crewAIInc/crewAI/issues/9498), the Flow id bug that #9499 fixes.
 
 ---
 
